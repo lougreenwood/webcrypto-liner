@@ -2,7 +2,7 @@
   "name": "webcrypto-liner",
   "version": "0.1.36",
   "description": "A WebCrypto polyfill that \"smooths out\" the rough-edges in existing User Agent implementations.",
-  "main": "build/index.js",
+  "main": "dist/webcrypto-liner.shim.js",
   "scripts": {
     "prepare": "npm run build:prod",
     "build": "npm run build:prod",
